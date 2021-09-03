@@ -1,0 +1,26 @@
+.dishCard{
+}
+.dishCard:hover{
+    transform: scale(1.011);
+}
+.headintText{
+    color: white;
+    overflow: hidden;
+}
+
+.headintText.price-heading{
+    float: right;
+}
+
+.icons{
+    cursor: pointer;
+}
+.icons:hover{
+    transform: scale(1.5);
+}
+.icons.cart{
+    color: green;
+}
+.icons.heart{
+    color: red;
+}
